@@ -1,0 +1,113 @@
+[
+{
+    "pk": 1,
+    "model": "api.company",
+    "fields": 
+  {
+        "id": "1",
+        "source_id": "186",
+        "source_name": "dataset_A.csv",
+        "name": "Dupont Café (parent)",
+        "website": "",
+        "email": "",
+        "phone": "",
+        "adress": "",
+        "postal_code": "75020.0",
+        "city": "",
+        "country": "France"
+  }
+
+},
+{   "pk": 2,
+    "model": "api.company",
+    "fields": 
+     
+{       "id": "2",
+        "source_id": "196",
+        "source_name": "dataset_A.csv",
+        "name": "Heiko Bordeaux",
+        "website": "",
+        "email": "",
+        "phone": "",
+        "adress": "",
+        "postal_code": "330000.0",
+        "city": "",
+        "country": "France"
+    }
+},
+{ "pk": 3,
+    "model": "api.company",
+    "fields": 
+     
+{ 
+        "id": "3",
+        "source_id": "292",
+        "source_name": "dataset_A.csv",
+        "name": "Tempête sous un crâne",
+        "website": "",
+        "email": "",
+        "phone": "33 1 47 55 07 20",
+        "adress": "",
+        "postal_code": "75015.0",
+        "city": "",
+        "country": "France"
+    }
+},
+{   "pk": 4,
+    "model": "api.company",
+    "fields": 
+     
+{ 
+
+        "id": "4",
+        "source_id": "259",
+        "source_name": "dataset_A.csv",
+        "name": "LA PIZZA DU DIMANCHE SOIR",
+        "website": "",
+        "email": "",
+        "phone": "01 85 47 11 12",
+        "adress": "",
+        "postal_code": "78670.0",
+        "city": "",
+        "country": "France"
+}
+    },
+{"pk": 5,
+    "model": "api.company",
+    "fields": 
+     
+{ 
+        "id": "5",
+        "source_id": "371",
+        "source_name": "dataset_A.csv",
+        "name": "Planet Sushi Pyrénées",
+        "website": "",
+        "email": "",
+        "phone": "01 43 15 17 17",
+        "adress": "",
+        "postal_code": "75020.0",
+        "city": "",
+        "country": "France"
+}
+    },
+{"pk": 6,
+    "model": "api.company",
+    "fields": 
+     
+{ 
+        "id": "6",
+        "source_id": "259",
+        "source_name": "dataset_A.csv",
+        "name": "Mum Dim Sum (Parent)",
+        "website": "",
+        "email": "",
+        "phone": "33142364304",
+        "adress": "",
+        "postal_code": "75001.0",
+        "city": "Paris",
+        "country": "France"
+}
+}
+
+
+]
