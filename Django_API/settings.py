@@ -23,7 +23,7 @@ FIXTURE_DIRS = (
 # See https://docs.djangoproject.com/en/3.0/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = '827sb!upkx0!(mqv0peqctd*9(o%i1g0$16tas7w-rr_9m$x#8'
+
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
